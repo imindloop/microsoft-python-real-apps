@@ -21,5 +21,9 @@ print(type(t))
 
 # string preferably are declared with single quotes, but double
 # can be used too
+
+# prints <class 'str'>
 name = 'Carlos Rodriguez'
 print(type(name))
+
+
